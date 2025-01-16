@@ -6,7 +6,7 @@ google-site-verification: hVE3o0aZmKEI_LQU1WXZt1ZoOpunAs0vutiAjlwl2Eg
 
 # Nimra Nadeem
 
-<img src="images/nimra_first_college.jpeg" alt="drawing" width="200"/>  
+<img src="images/nimra_uwc_crop.png" alt="drawing" width="200"/>  
 
 
 **Email**: nimra.nadeem.ahmad@gmail.com
