@@ -6,17 +6,19 @@ google-site-verification: hVE3o0aZmKEI_LQU1WXZt1ZoOpunAs0vutiAjlwl2Eg
 
 # Nimra Nadeem
 
-<img src="images/nimra_uwc_crop.png" alt="drawing" width="200"/>  
+* [Email](mailto:nimra.nadeem.ahmad@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/nnadeem20/)
+* [Github](https://github.com/nimra-nadeem)
 
+I am a first-year graduate student in Princeton University’s MSE Computer Science program, advised by [Professor Peter Henderson](https://www.peterhenderson.co/). Prior to graduate school, I spent three years at Bloomberg Law, where I developed machine learning models and fine-tuned large language models for applications in the legal domain. Before that, I completed my Bachelors in Computer Science from Princeton University, advised by [Professor Elad Hazan](https://www.ehazan.com/) with a minor in [Values and Public Life](https://uchv.princeton.edu/academic-programs/values-and-public-life) with a thematic focus on *Theories of Social and Political Justice*. I am originally from Islamabad, Pakistan but did my last two years of high school from [UWC Red Cross Nordic](https://uwcrcn.no/), in a tiny village on the west coast of Norway.
 
-**Email**: nimra.nadeem.ahmad@gmail.com
+My research interests lie at the intersection of artificial intelligence, law, normative political theory, and public policy. I am particularly interested in understanding how AI shapes social inequalities, how AI's benefits and risks are distributed across communities and what governance frameworks are needed to uphold justice, accountability, and democratic values in the era of foundation models. My work seeks to examine the regulatory and ethical foundations required to ensure that major advancements in AI genuinely serve the public good.
 
-**LinkedIn**: [https://www.linkedin.com/in/nnadeem20/](https://www.linkedin.com/in/nnadeem20/)
+In alignment with these goals, my technical research focuses on designing reliable and responsible AI systems for high-stakes applications, particularly in law and education.
 
-I am a Software Engineer in the Bloomberg Law department at Bloomberg LP. I graduated from Princeton University in 2021, with a Bachelors of Arts (A.B.) with High Honors (*Magna Cum Laude*) in Computer Science and a certificate in [Values and Public Life](https://uchv.princeton.edu/academic-programs/values-and-public-life) with a thematic focus on *Theories of Social and Political Justice*. I am interested in natural language processing, reinforcement learning, and computational control, and I care deeply about AI ethics, fairness, regulation, and safety. Below are some fun things I did during my undergraduate years.
+Outside of work, I love outdoor adventures - whether it’s backpacking on suspiciously unmarked trails, cycling along unplanned routes, or wandering aimlessly through the woods. Over the past few years, I've gotten hooked on Brazilian jiu-jitsu and attempting (somewhat unsuccessfully) to learn the sitar.
 
-
-## Research Papers
+## Past Research
 
 ### Technical
 
@@ -56,6 +58,10 @@ I am a Software Engineer in the Bloomberg Law department at Bloomberg LP. I grad
 
 
 ## Teaching Experience
+
+- Graduate Assistant Instructor for [COS 324: Introduction to Machine Learning](https://princeton-introml.github.io/files/COS324_Course_Notes.pdf). Spring 2025.
+
+- Graduate Assistant Instructor for [COS 333 Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall24/cos333/). Fall 2024.
 
 - [**Inspirit AI**](https://www.inspiritai.com/): Course Instructor for the [AI Scholars Program](https://www.inspiritai.com/liveonline).  06/2022 – 09/2022.
 
