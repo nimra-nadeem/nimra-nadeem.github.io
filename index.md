@@ -23,7 +23,7 @@ AAAI 2025 Workshop on AI for Education ([iRAISE](https://iraise-25-aaai.my.canva
 ## Teaching Experience
 
 - **Princeton University**, Graduate Assistant Instructor:
-    - [COS 352: Artificial Intelligence, Law and Public Policy](https://princeton-introml.github.io/files/COS324_Course_Notes.pdf). Fall 2025.
+    - [COS 352: Artificial Intelligence, Law and Public Policy](https://www.polarislab.org/ai-law-2025/index.html). Fall 2025.
 
     - [COS 324: Introduction to Machine Learning](https://princeton-introml.github.io/files/COS324_Course_Notes.pdf). Spring 2025.
 
