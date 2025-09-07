@@ -5,7 +5,7 @@ google-site-verification: hVE3o0aZmKEI_LQU1WXZt1ZoOpunAs0vutiAjlwl2Eg
 
 [Email](mailto:nimra.nadeem.ahmad@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nnadeem20/) | [Github](https://github.com/nimra-nadeem)
 
-I am an MSE Computer Science student at Princeton, advised by [Professor Peter Henderson](https://www.peterhenderson.co/), working at the [POLARIS Lab](https://www.polarislab.org/#/), and affiliated with the [Center for Information Technology Policy](https://citp.princeton.edu/). My research explores how large language models interpret and apply natural language rules, drawing on insights from law and philosophy. I am especially interested in interpretive ambiguity (both in AI alignment and in law), legal reasoning in LLMs, and developing normative sociopolitical theories of justice in the age of AI systems.
+I am an MSE Computer Science student at Princeton, advised by [Professor Peter Henderson](https://www.peterhenderson.co/), working at the [POLARIS Lab](https://www.polarislab.org/#/), and affiliated with the [Center for Information Technology Policy](https://citp.princeton.edu/). My research explores how large language models interpret and apply natural language rules, drawing on insights from law and philosophy. I am especially interested in interpretive ambiguity (both in AI alignment and in law), legal reasoning in LLMs, and developing normative sociopolitical theories of justice in the age of AI.
 
 Prior to graduate school, I spent three years working on ML models for the legal domain at Bloomberg Law. Before that, I completed my Bachelors in CS from Princeton, advised by [Professor Elad Hazan](https://www.ehazan.com/), with a certificate in [Values and Public Life](https://uchv.princeton.edu/academic-programs/values-and-public-life) (*Political Theory*). I am originally from Islamabad, Pakistan but did my last two years of high school at [UWC Red Cross Nordic](https://uwcrcn.no/), in a tiny town by a magnificent fjord on the west coast of Norway.
 
@@ -13,9 +13,9 @@ Prior to graduate school, I spent three years working on ML models for the legal
 
 ## Recent Work
 
-- [*Statutory Construction and Interpretation for Artificial Intelligence*](https://arxiv.org/abs/2509.01186), 2025. Lucy He*, **Nimra Nadeem***, Michel Liao, Howard Chen, Danqi Chen, Mariano-Florentino Cuéllar, Peter Henderson. [[Paper](https://arxiv.org/abs/2509.01186)] [[Blog Post](https://www.polarislab.org/#/blog/statutory-construction-ai)]. Also featured on the [PLI Blog](https://pli.princeton.edu/blog/2025/statutory-construction-and-interpretation-ai) and the [CITP Blog](https://blog.citp.princeton.edu/2025/09/05/statutory-construction-interpretation-for-ai/).
+- [*Statutory Construction and Interpretation for Artificial Intelligence*](https://arxiv.org/abs/2509.01186), 2025. Lucy He*, Nimra Nadeem*, Michel Liao, Howard Chen, Danqi Chen, Mariano-Florentino Cuéllar, Peter Henderson. [[Paper](https://arxiv.org/abs/2509.01186)] [[Blog Post](https://www.polarislab.org/#/blog/statutory-construction-ai)]. Also featured on the [PLI Blog](https://pli.princeton.edu/blog/2025/statutory-construction-and-interpretation-ai) and the [CITP Blog](https://blog.citp.princeton.edu/2025/09/05/statutory-construction-interpretation-for-ai/).
 
-- [*Missing the Mark: Rethinking Math Benchmarks for LLMs using IRT*](files/irt_iraise.pdf), 2025. Jane Castleman*, **Nimra Nadeem***, Tanvi Namjoshi*, and Lydia T. Liu
+- [*Missing the Mark: Rethinking Math Benchmarks for LLMs using IRT*](files/irt_iraise.pdf), 2025. Jane Castleman*, Nimra Nadeem*, Tanvi Namjoshi*, and Lydia T. Liu
 AAAI 2025 Workshop on AI for Education ([iRAISE](https://iraise-25-aaai.my.canva.site/)), **Spotlight**.
 
     **Denotes Equal Contribution*
