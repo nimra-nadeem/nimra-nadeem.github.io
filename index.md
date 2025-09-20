@@ -13,12 +13,12 @@ Prior to graduate school, I spent three years working on ML models for the legal
 
 ## Recent Work
 
-- [*Statutory Construction and Interpretation for Artificial Intelligence*](https://arxiv.org/abs/2509.01186), 2025. Lucy He*, Nimra Nadeem*, Michel Liao, Howard Chen, Danqi Chen, Mariano-Florentino Cuéllar, Peter Henderson. [[Paper](https://arxiv.org/abs/2509.01186)] [[Blog Post](https://www.polarislab.org/#/blog/statutory-construction-ai)]. Also featured on the [PLI Blog](https://pli.princeton.edu/blog/2025/statutory-construction-and-interpretation-ai) and the [CITP Blog](https://blog.citp.princeton.edu/2025/09/05/statutory-construction-interpretation-for-ai/).
+- [*Statutory Construction and Interpretation for Artificial Intelligence*](https://arxiv.org/abs/2509.01186), 2025. Lucy He\*, Nimra Nadeem\*, Michel Liao, Howard Chen, Danqi Chen, Mariano-Florentino Cuéllar, Peter Henderson. [[Paper](https://arxiv.org/abs/2509.01186)] [[Blog Post](https://www.polarislab.org/#/blog/statutory-construction-ai)]. Also featured on the [PLI Blog](https://pli.princeton.edu/blog/2025/statutory-construction-and-interpretation-ai) and the [CITP Blog](https://blog.citp.princeton.edu/2025/09/05/statutory-construction-interpretation-for-ai/).
 
-- [*Missing the Mark: Rethinking Math Benchmarks for LLMs using IRT*](files/irt_iraise.pdf), 2025. Jane Castleman*, Nimra Nadeem*, Tanvi Namjoshi*, and Lydia T. Liu
+- [*Missing the Mark: Rethinking Math Benchmarks for LLMs using IRT*](files/irt_iraise.pdf), 2025. Jane Castleman\*, Nimra Nadeem\*, Tanvi Namjoshi\*, and Lydia T. Liu.
 AAAI 2025 Workshop on AI for Education ([iRAISE](https://iraise-25-aaai.my.canva.site/)), **Spotlight**.
 
-    **Denotes Equal Contribution*
+    \*Denotes Equal Contribution
 
 ## Teaching Experience
 
