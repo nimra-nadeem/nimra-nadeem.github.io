@@ -1,2 +1,5 @@
 .DS_Store
 tmp/*
+_site/
+.jekyll-cache/
+.sass-cache/
