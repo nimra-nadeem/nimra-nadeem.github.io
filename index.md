@@ -3,7 +3,7 @@ title: Nimra Nadeem
 google-site-verification: hVE3o0aZmKEI_LQU1WXZt1ZoOpunAs0vutiAjlwl2Eg
 ---
 
-[Email](mailto:nimra.nadeem.ahmad@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nnadeem20/) | [Github](https://github.com/nimra-nadeem)
+[Email](mailto:nimra.nadeem.ahmad@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nnadeem20/) | [Google Scholar](https://scholar.google.com/citations?user=Gg_I5NYAAAAJ&hl=en) | [Github](https://github.com/nimra-nadeem)
 
 I am an MSE Computer Science student at Princeton, advised by [Professor Peter Henderson](https://www.peterhenderson.co/), working at the [POLARIS Lab](https://www.polarislab.org/#/), and affiliated with the [Center for Information Technology Policy](https://citp.princeton.edu/). My research explores how large language models interpret and apply natural language rules, drawing on insights from law and philosophy. I am especially interested in interpretive ambiguity (both in AI alignment and in law), legal reasoning in LLMs, and developing normative sociopolitical theories of justice in the age of AI.
 
@@ -13,7 +13,9 @@ Prior to graduate school, I spent three years working on ML models for the legal
 
 ## Recent Work
 
-- [*Statutory Construction and Interpretation for Artificial Intelligence*](https://arxiv.org/abs/2509.01186), 2025. Lucy He\*, Nimra Nadeem\*, Michel Liao, Howard Chen, Danqi Chen, Mariano-Florentino Cuéllar, Peter Henderson. [[Paper](https://arxiv.org/abs/2509.01186)] [[Blog Post](https://www.polarislab.org/#/blog/statutory-construction-ai)]. Also featured on the [PLI Blog](https://pli.princeton.edu/blog/2025/statutory-construction-and-interpretation-ai) and the [CITP Blog](https://blog.citp.princeton.edu/2025/09/05/statutory-construction-interpretation-for-ai/).
+- [*Statutory Construction and Interpretation for Artificial Intelligence*](https://arxiv.org/abs/2509.01186), 2025. Lucy He\*, Nimra Nadeem\*, Michel Liao, Howard Chen, Danqi Chen, Mariano-Florentino Cuéllar, Peter Henderson. NeurIPS 2025 RegML Workshop. (Invited Oral) PNAS Special Feature "Law in the Age of Generative AI". (Under Review) [[Paper](https://arxiv.org/abs/2509.01186)] [[Blog Post](https://www.polarislab.org/#/blog/statutory-construction-ai)]. Also featured on the [PLI Blog](https://pli.princeton.edu/blog/2025/statutory-construction-and-interpretation-ai) and the [CITP Blog](https://blog.citp.princeton.edu/2025/09/05/statutory-construction-interpretation-for-ai/).
+
+- *AI-Assisted Moot Courts: Simulating Justice-Specific Questioning for Supreme Court Oral Arguments*, 2025. Kylie Zhang\*, Nimra Nadeem\*, Lucia Zheng, Dominik Stammbach, and Peter Henderson. 5th ACM Symposium on Computer Science and Law (CS&Law 2026). (Accepted) (arxiv link forthcoming)
 
 - [*Missing the Mark: Rethinking Math Benchmarks for LLMs using IRT*](files/irt_iraise.pdf), 2025. Jane Castleman\*, Nimra Nadeem\*, Tanvi Namjoshi\*, and Lydia T. Liu.
 AAAI 2025 Workshop on AI for Education ([iRAISE](https://iraise-25-aaai.my.canva.site/)), **Spotlight**.
