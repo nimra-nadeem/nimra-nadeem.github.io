@@ -19,7 +19,7 @@ I want to understand how to preserve meaningful human agency within complex syst
       <li>
         <span class="pub-title">Statutory Construction and Interpretation for Artificial Intelligence</span><br>
         <span class="pub-authors">Lucy He*, Nimra Nadeem*, Michel Liao, Howard Chen, Danqi Chen, Mariano-Florentino Cuéllar, Peter Henderson</span><br>
-        <span class="pub-venue">NeurIPS 2025 RegML Workshop (Invited Oral). PNAS Special Feature (Under Review).</span>
+        <span class="pub-venue">PNAS Special Feature (In Press). NeurIPS 2025 RegML Workshop (Invited Oral).</span>
         <div class="pub-links">
           <a href="https://arxiv.org/abs/2509.01186">Paper</a>
           <a href="https://www.polarislab.org/#/blog/statutory-construction-ai">Blog</a>
@@ -29,6 +29,9 @@ I want to understand how to preserve meaningful human agency within complex syst
         <span class="pub-title">AI-Assisted Moot Courts: Simulating Justice-Specific Questioning for Supreme Court Oral Arguments</span><br>
         <span class="pub-authors">Kylie Zhang*, Nimra Nadeem*, Lucia Zheng, Dominik Stammbach, Peter Henderson</span><br>
         <span class="pub-venue">ACM Symposium on Computer Science and Law 2026 (Accepted).</span>
+        <div class="pub-links">
+          <p class="note">Paper Forthcoming</p>
+        </div>
       </li>
       <li>
         <span class="pub-title">Missing the Mark: Rethinking Math Benchmarks for LLMs using IRT</span><br>
@@ -48,7 +51,9 @@ I want to understand how to preserve meaningful human agency within complex syst
   <div class="section-content">
     <h3>Princeton University</h3>
     <ul>
+      <li><a href="https://mrm.scholar.princeton.edu/sites/g/files/toruqf7051/files/documents/2025%20Great%20Moments%20583%20syllabus%20v3.pdf">COS 583: Great Moments in Computing</a> — Spring 2026</li>
       <li><a href="https://www.polarislab.org/ai-law-2025/index.html">COS 352: AI, Law and Public Policy</a> — Fall 2025</li>
+      <li><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=017918">FRS 145: Analyzing Climate History with Dendrology</a> — Fall 2025</li>
       <li><a href="https://princeton-introml.github.io/files/COS324_Course_Notes.pdf">COS 324: Intro to Machine Learning</a> — Spring 2025</li>
       <li><a href="https://www.cs.princeton.edu/courses/archive/fall24/cos333/">COS 333: Advanced Programming Techniques</a> — Fall 2024</li>
     </ul>
@@ -85,8 +90,16 @@ I want to understand how to preserve meaningful human agency within complex syst
       <li><a href="files/VPL_research_nnadeem.pdf">Mera Jism Kiski Marzi? An Ethnographic Understanding of the Aurat March in Pakistan</a> — 2021. Advised by <a href="http://www.princeton.edu/~macedo/">Stephen Macedo</a>.</li>
       <li><a href="files/wri_sem_paper.pdf">The Racist Liberal Humanist: Black Plasticity in Jordan Peele's Get Out</a> — 2018. Advised by <a href="https://writing.princeton.edu/about/people/writing-seminar-faculty/marina-fedosik">Marina Fedosik</a>. Presented at the <a href="https://writing.princeton.edu/undergraduates/mary-w-george-research-conference/fall-2018">Mary W. George Research Conference</a>.</li>
     </ul>
-    <h3>Some Papers in Philosophy Courses that I particularly enjoyed writing</h3>
+  </div>
+</details>
+
+<details>
+  <summary>Philosophy</summary>
+
+  <div class="section-content">
+    <p>Below are some papers from Philosophy courses that I particularly enjoyed writing</p>
     <ul>
+      <li><a href="files/philosophy/plato_city_of_pigs.pdf">The City of Pigs as The Incomplete True City</a> — An argument for why Socrates calls the city of pigs the "true" city in Book II of Plato's Republic.</li>
       <li><a href="files/philosophy/kant_amoral_actions.pdf">Amoral Actions: A Defense of Kant's Account of Moral Content</a> — A defense of Kant's account of moral content in response to Schiller.</li>
       <li><a href="files/philosophy/kant_lying_to_liars.pdf">On Lying to Liars and Birthday Surprises</a> — A defense of Kant's perfect duty not to lie in response to Mahon.</li>
       <li><a href="files/philosophy/what_it_is_like_to_believe.pdf">What it is like to Believe</a> — A response to the problem of introspection.</li>
