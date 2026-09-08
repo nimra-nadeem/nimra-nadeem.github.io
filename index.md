@@ -6,10 +6,10 @@ google-site-verification: hVE3o0aZmKEI_LQU1WXZt1ZoOpunAs0vutiAjlwl2Eg
 
 <h1>Nimra Nadeem</h1>
 <p class="bio">
-I'm an MSE Computer Science student at Princeton, affiliated with the <a href="https://citp.princeton.edu/">Center for Information Technology Policy</a>, and incredibly lucky to be advised by <a href="https://www.peterhenderson.co/">Peter Henderson</a> at the <a href="https://www.polarislab.org/">POLARIS Lab</a>.
+I'm a Computer Science PhD student at Princeton, affiliated with the <a href="https://citp.princeton.edu/">Center for Information Technology Policy</a>, and incredibly lucky to be advised by <a href="https://www.peterhenderson.co/">Peter Henderson</a> at the <a href="https://www.polarislab.org/">POLARIS Lab</a>.
 </p>
 <p class="bio">
-I want to understand how to preserve meaningful human agency within complex systems involving both human and non-human agents. This requires inquiry at multiple scales: how to ensure models reliably follow human-created laws, how to design human-AI systems that strengthen rather than displace human reasoning, and how to shift existing societal incentive structures to prevent gradual erosion of meaningful human agency. Grounding everything is the normative question: what constitutes meaningful human agency? I'm currently using methods from machine learning, philosophy and law to explore these questions.
+I want to understand how to preserve human autonomy within complex systems involving both human and non-human agents. This requires inquiry at multiple scales: how to ensure models reliably follow human-created laws, how to design human-AI systems that strengthen rather than displace human reasoning, and how to shift existing societal incentive structures to prevent gradual erosion of both individual and collective human autonomy. Grounding everything is the normative question: what constitutes human autonomy and why is it worth protecting? I'm currently using methods from machine learning, philosophy and law to explore these questions.
 </p>
 
 <details open>
@@ -19,9 +19,9 @@ I want to understand how to preserve meaningful human agency within complex syst
       <li>
         <span class="pub-title">Statutory Construction and Interpretation for Artificial Intelligence</span><br>
         <span class="pub-authors">Lucy He*, Nimra Nadeem*, Michel Liao, Howard Chen, Danqi Chen, Mariano-Florentino Cuéllar, Peter Henderson</span><br>
-        <span class="pub-venue">PNAS Special Feature (In Press). NeurIPS 2025 RegML Workshop (Invited Oral).</span>
+        <span class="pub-venue">Proceedings of the National Academy of Sciences, 123, 30, (2026). NeurIPS 2025 RegML Workshop (Invited Oral).</span>
         <div class="pub-links">
-          <a href="https://arxiv.org/abs/2509.01186">Paper</a>
+          <a href="https://www.pnas.org/doi/10.1073/pnas.2509766123">Paper</a>
           <a href="https://www.polarislab.org/#/blog/statutory-construction-ai">Blog</a>
         </div>
       </li>
@@ -72,6 +72,7 @@ I want to understand how to preserve meaningful human agency within complex syst
   <summary>Past Lives</summary>
   <div class="section-content">
     <p>
+      I recently completed my MSE in Computer Science at Princeton. I spent summer 2026 in the <a href="https://cssh.northeastern.edu/ethics/aide-summer/">AI + Data Ethics (AIDE) Graduate Summer Program</a> getting trained in philosophy of AI, advised by <a href="https://kathleenacreel.com/">Katie Creel</a> and <a href="https://johnbasl.net/">John Basl</a>.
       Before grad school, I spent three years as a software engineer at Bloomberg, <a href="https://pro.bloomberglaw.com/">building ML models for the legal domain</a>. I did my undergrad at Princeton (CS, with a minor in Political Theory), advised by <a href="https://www.ehazan.com/">Elad Hazan</a>. Spent a summer teaching in Tokyo and a gap year teaching in Nepal. Grew up in Islamabad, Pakistan, but did my last two years of high school at <a href="https://uwcrcn.no/">UWC Red Cross Nordic</a>, in <a href="https://en.wikipedia.org/wiki/Flekke">a tiny town</a> by a magnificent fjord on the west coast of Norway.
     </p>
   </div>
